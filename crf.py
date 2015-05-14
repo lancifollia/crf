@@ -254,7 +254,6 @@ class LinearChainCRF():
                               args=(self.training_data, self.feature_set, training_feature_data,
                                     self.feature_set.get_empirical_counts(),
                                     self.label_dic, self.squared_sigma),
-                              factr=1e12,
                               callback=_callback)
         print('   ========================')
         print('   (iter: iteration, sit: sub iteration)')

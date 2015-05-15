@@ -1,9 +1,5 @@
 # laon_crf
-Python으로 개발한 Linear-Chain Conditional Random Fields
-
-Laon 프로젝트의 첫 번째 작품인 laon_crf의 테스트 버전입니다.
-
-Laon 프로젝트의 목표는 Practical한 환경에서 Practical한 성능으로, 쉽게 사용할 수 있는 자연어처리 엔진을 만드는 것입니다.
+Python implementation of Linear-Chain Conditional Random Fields
 
 ## 사용방법
 소스코드에 포함된 코퍼스(CoNLL 2000 Chunking Data)를 이용해서 바로 테스트해 볼 수 있습니다.

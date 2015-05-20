@@ -35,6 +35,8 @@ $python3 crf_test.py data/chunking_small/small_test.data small_model.json
 ```
 
 ## 성능
+**_현재 개발중입니다. 아직은 일반 Conditional Random Fields와 성능 차이가 없습니다._**
+
 CoNLL 코퍼스(data/chunking_small, data/chunking_full)로 CRF++( http://taku910.github.io/crfpp/ )와 비교해 본 결과, 비슷한 성능이 나왔습니다.
 
 (동일한 데이터, 동일한 Feature set을 사용했습니다.)

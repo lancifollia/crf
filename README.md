@@ -1,5 +1,9 @@
 # laon_crf
-Python implementation of Linear-Chain Conditional Random Fields
+Transition Feature Focused Linear-Chain Conditional Random Fields
+
+Transition Feature에 중점을 둔 Linear-Chain Conditional Random Fields 입니다.
+
+개발/테스트 중입니다.
 
 ## 사용방법
 소스코드에 포함된 코퍼스(CoNLL 2000 Chunking Data)를 이용해서 바로 테스트해 볼 수 있습니다.
@@ -49,3 +53,6 @@ CoNLL 코퍼스(data/chunking_small, data/chunking_full)로 CRF++( http://taku91
 
 ## License
 MIT
+
+## Reference
+An Introduction to Conditional Random Fields / Charles Sutton, Andrew McCallum/ 2010

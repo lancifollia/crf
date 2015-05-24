@@ -51,8 +51,6 @@ CoNLL 코퍼스(data/chunking_small, data/chunking_full)로 CRF++( http://taku91
 | chunking_full  | 0.960128 | 0.960128 |
 | chunking_small | 0.899072 | 0.889474 |
 
-* 유의사항: 아직 laon-crf의 속도가 많이 느립니다. chunking_full로 훈련할 경우, Intel Core i7(2.9GHz) 기준으로 24시간 걸렸습니다.
-
 ## License
 MIT
 

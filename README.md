@@ -35,7 +35,7 @@ python3 crf_test.py data/chunking_small/small_test.data small_model.json
 
 - Data: CoNLL corpus
     - [data/chunking_full](https://github.com/lancifollia/tiny_crf/tree/master/data/chunking_full): original data (8936 sentences)
-    - [chunking_small](https://github.com/lancifollia/tiny_crf/tree/master/data/chunking_small): sampled data (77 sentences)
+    - [data/chunking_small](https://github.com/lancifollia/tiny_crf/tree/master/data/chunking_small): sampled data (77 sentences)
 - Compared with [CRF++](http://taku910.github.io/crfpp/)
 - Use feature set
 

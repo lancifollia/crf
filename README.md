@@ -41,7 +41,7 @@ python3 crf_test.py data/chunking_small/small_test.data small_model.json
 
 **Accuracy**
 
-|                | laon-crf |  CRF++   |
+|                | tiny_crf |  CRF++   |
 |--------------- | -------- | -------- |
 | chunking_full  | 0.960128 | 0.960128 |
 | chunking_small | 0.899072 | 0.889474 |
